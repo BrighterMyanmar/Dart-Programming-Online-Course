@@ -1,0 +1,290 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Claudia",
+                "last": "Romero"
+            },
+            "location": {
+                "street": {
+                    "number": 7456,
+                    "name": "Calle de Téllez"
+                },
+                "city": "San Sebastián de Los Reyes",
+                "state": "Cantabria",
+                "country": "Spain",
+                "postcode": 35437,
+                "coordinates": {
+                    "latitude": "-21.9333",
+                    "longitude": "52.7662"
+                },
+                "timezone": {
+                    "offset": "-9:00",
+                    "description": "Alaska"
+                }
+            },
+            "email": "claudia.romero@example.com",
+            "login": {
+                "uuid": "3c01bbc3-47a0-4f53-a779-7a1354c8a869",
+                "username": "organickoala677",
+                "password": "idunno",
+                "salt": "CMa9umyD",
+                "md5": "9b3164b58c80b69881132b9727ddf24b",
+                "sha1": "66df641a0ec39ed454237433910d9263a7b3254d",
+                "sha256": "7ac4a4141980574df5eb134c39f7824f4f7adbfa7465287aa2c19bcce7098630"
+            },
+            "dob": {
+                "date": "1951-03-28T12:15:39.904Z",
+                "age": 69
+            },
+            "registered": {
+                "date": "2005-10-27T22:11:04.861Z",
+                "age": 15
+            },
+            "phone": "927-565-464",
+            "cell": "630-958-359",
+            "id": {
+                "name": "DNI",
+                "value": "09483715-F"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/31.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+            },
+            "nat": "ES"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Pinja",
+                "last": "Hokkanen"
+            },
+            "location": {
+                "street": {
+                    "number": 4356,
+                    "name": "Mechelininkatu"
+                },
+                "city": "Kiikoinen",
+                "state": "Satakunta",
+                "country": "Finland",
+                "postcode": 92845,
+                "coordinates": {
+                    "latitude": "-8.6635",
+                    "longitude": "-71.3937"
+                },
+                "timezone": {
+                    "offset": "+5:45",
+                    "description": "Kathmandu"
+                }
+            },
+            "email": "pinja.hokkanen@example.com",
+            "login": {
+                "uuid": "1f8d59f1-f6d6-4b28-b7dc-23c664ae0bdc",
+                "username": "lazyfrog435",
+                "password": "dewalt",
+                "salt": "bU1Xi1aQ",
+                "md5": "b938a24d49350f12aea4faca1d9366b7",
+                "sha1": "c00d33aeb73e32ee6781612143351f206db7516e",
+                "sha256": "727dd017718fade76bd3dcd22b376bc67fa1e2ed1108ad17411b9d77255dd091"
+            },
+            "dob": {
+                "date": "1957-07-08T12:56:19.304Z",
+                "age": 63
+            },
+            "registered": {
+                "date": "2006-04-17T08:01:46.287Z",
+                "age": 14
+            },
+            "phone": "09-671-735",
+            "cell": "046-644-30-07",
+            "id": {
+                "name": "HETU",
+                "value": "NaNNA108undefined"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/79.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+            },
+            "nat": "FI"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Louise",
+                "last": "Flores"
+            },
+            "location": {
+                "street": {
+                    "number": 1202,
+                    "name": "Grove Road"
+                },
+                "city": "Westport",
+                "state": "Roscommon",
+                "country": "Ireland",
+                "postcode": 90505,
+                "coordinates": {
+                    "latitude": "-64.3763",
+                    "longitude": "127.5649"
+                },
+                "timezone": {
+                    "offset": "-3:00",
+                    "description": "Brazil, Buenos Aires, Georgetown"
+                }
+            },
+            "email": "louise.flores@example.com",
+            "login": {
+                "uuid": "0a475533-deac-41c5-8ba6-6610c20f9ba4",
+                "username": "silverwolf731",
+                "password": "kenny1",
+                "salt": "jVSCqUvW",
+                "md5": "d9b83951396d6d1b5158cb6c512145c9",
+                "sha1": "b2db02bc41bd3e8ff9d8b9177c9e35f5156bab4e",
+                "sha256": "b2b32d634eeaa0405ff6e19f2f91de3479ce04cb1999bb84f82df277afe32222"
+            },
+            "dob": {
+                "date": "1955-02-07T13:54:26.005Z",
+                "age": 65
+            },
+            "registered": {
+                "date": "2003-01-04T09:17:26.796Z",
+                "age": 17
+            },
+            "phone": "041-395-1247",
+            "cell": "081-870-7518",
+            "id": {
+                "name": "PPS",
+                "value": "4432103T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/72.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+            },
+            "nat": "IE"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Onur",
+                "last": "Özkara"
+            },
+            "location": {
+                "street": {
+                    "number": 3109,
+                    "name": "Filistin Cd"
+                },
+                "city": "Tokat",
+                "state": "Şırnak",
+                "country": "Turkey",
+                "postcode": 81381,
+                "coordinates": {
+                    "latitude": "9.4917",
+                    "longitude": "-59.6983"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "onur.ozkara@example.com",
+            "login": {
+                "uuid": "14fce2cb-74b5-4c8b-bb30-b65f9247cdc1",
+                "username": "silverswan667",
+                "password": "ming",
+                "salt": "KP7haYN5",
+                "md5": "6266e1c9fe3ff0647ad76777d7bc9402",
+                "sha1": "041519ebc2a7896273dbfe0353febeef70d2c44e",
+                "sha256": "77d19defe3bf84bcbdcb8e6b1c589ec0b480a869dbd0dd738376244f3f6acc9e"
+            },
+            "dob": {
+                "date": "1985-02-03T20:19:03.595Z",
+                "age": 35
+            },
+            "registered": {
+                "date": "2015-08-06T14:31:36.513Z",
+                "age": 5
+            },
+            "phone": "(410)-636-6175",
+            "cell": "(821)-279-0487",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/16.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+            },
+            "nat": "TR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Laura",
+                "last": "Adams"
+            },
+            "location": {
+                "street": {
+                    "number": 538,
+                    "name": "Grange Road"
+                },
+                "city": "Londonderry",
+                "state": "Durham",
+                "country": "United Kingdom",
+                "postcode": "C05 6EY",
+                "coordinates": {
+                    "latitude": "46.7388",
+                    "longitude": "11.2707"
+                },
+                "timezone": {
+                    "offset": "-4:00",
+                    "description": "Atlantic Time (Canada), Caracas, La Paz"
+                }
+            },
+            "email": "laura.adams@example.com",
+            "login": {
+                "uuid": "1d765420-5f6d-4f04-9bec-9af10cae9cda",
+                "username": "tinyduck332",
+                "password": "fish",
+                "salt": "A7Zg3FR9",
+                "md5": "b8b518cb1b872f0c7310520f5bcd008a",
+                "sha1": "42096e2c39c4cb642605bf8b81b055bf2f3de776",
+                "sha256": "ee9bc4ccea85e0c910135f049a1243858935e2b68f8037ba34a0b4985dbd4c30"
+            },
+            "dob": {
+                "date": "1961-04-19T20:55:00.659Z",
+                "age": 59
+            },
+            "registered": {
+                "date": "2018-05-25T21:09:36.431Z",
+                "age": 2
+            },
+            "phone": "017684 36206",
+            "cell": "0791-258-606",
+            "id": {
+                "name": "NINO",
+                "value": "PW 36 05 21 C"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/54.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+            },
+            "nat": "GB"
+        }
+    ],
+    "info": {
+        "seed": "a6eb53005c30a446",
+        "results": 5,
+        "page": 1,
+        "version": "1.3"
+    }
+}
