@@ -8,3 +8,5 @@ void main()async{
   http.Response res = await http.get(API_URL);
   print(res.body);
 }
+// if null safty error occour , use below execution command
+ //dart --no-sound-null-safety run filename
