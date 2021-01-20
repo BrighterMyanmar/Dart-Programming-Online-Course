@@ -31,6 +31,14 @@ void main() async {
           body: data["body"]);
       posts.add(post);
     });
+    
+     List<Post> posts = [];
+       for(var data in dataList){
+         Post post = Post.fromJson(data);
+         posts.add(post);
+       }
+       print(posts.length);
+    
     print("There are ${posts.length}");
   }).catchError((e) => print(e));
 }
